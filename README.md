@@ -11,7 +11,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/douglas-mayinja-5a2235222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/douglas-mayinja-5a2235222/" height="30" width="40" /></a><a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16931922/mayinja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16931922/mayinja" height="30" width="40" /></a>
 </p>
 
+
 <br />
+
+<img align="left" alt="Mayinja6's GitHub Stats" src="http://github-readme-stats-git-master-douglas6-github.vercel.app/api?username=Mayinja6&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 ### Languages and Tools:
 
