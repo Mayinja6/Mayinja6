@@ -1,6 +1,6 @@
-# Hello, folks! <img src="./wave.gif" width="30px" height="30px" />
+<h1 align="center">Hello, folks! <img src="./wave.gif" width="30px" height="30px" /></h1>
 
-### &#x1f4c8; Quick stats about me
+## &#x1f4c8; Quick stats about me
 
 | Github Stats                             | Top Languages                                    |
 | ---------------------------------------- | ------------------------------------------------ |
