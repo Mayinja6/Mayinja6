@@ -6,6 +6,13 @@
 | ---------------------------------------- | ------------------------------------------------ |
 | ![Mayinja6's github stats][github_stats] | ![Mayinja6's top languages][top_languages_gitub] |
 
+<details>
+  <summary>Recent Github Activity</summary>
+
+<!-- START_SECTION:activity -->
+
+</details>
+
 ---
 
 ## `📺  Latest Youtube Videos`
