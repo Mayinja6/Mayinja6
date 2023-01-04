@@ -1,5 +1,8 @@
 <h1 align="center">Hello, folks! <img src="./wave.gif" width="30px" height="30px" /></h1>
 
+[![Website](https://img.shields.io/website?label=Mayinja6.com&style=for-the-badge&url=https%3A%2F%2FMayinja6.com)](https://Mayinja6.giyhub.io/Mayinja6)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mayinja6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMayinja6&screen_name=Mayinja6)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
