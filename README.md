@@ -1,6 +1,6 @@
 # Hi there, I'm Douglas  <img src="./wave.gif" width="30px" height="30px" />
-[![Website](https://img.shields.io/website?label=Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2FPortifolio-Website)](https://Mayinja6.giyhub.io/Mayinja6)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mayinja6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMayinja6&screen_name=Mayinja6)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2FPortifolio-Website)](https://Mayinja6.giyhub.io/Mayinja6)
+![Twitter Follow](https://img.shields.io/twitter/follow/Mayinja6?color=1da1f2&label=%40Mayinja6&logo=Twitter&logoColor=1da1f2&style=for-the-badge)
 
 ## I'm a potential self driven Frontend Developer based in Uganda. :uganda:
 
