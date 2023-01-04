@@ -2,9 +2,9 @@
 [![Website](https://img.shields.io/website?label=Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2FPortifolio-Website)](https://Mayinja6.giyhub.io/Mayinja6)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mayinja6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMayinja6&screen_name=Mayinja6)
 
-### I'm a potential self driven Frontend Developer based in Uganda. :uganda:
+## I'm a potential self driven Frontend Developer based in Uganda. :uganda:
 
-- 🔭 Check out my latest MERN Project: [Norda E-commerce Website!][course]!
+- 🔭 Check out my latest MERN Project: [Norda E-commerce site!](https://norda-ecommerce.netlify.app)
 
 - 🌱 I’m currently learning Grapgql and Typescript.
 
@@ -50,24 +50,7 @@
 | ---------------------------------------- | ------------------------------------------------ |
 | ![Mayinja6's github stats][github_stats] | ![Mayinja6's top languages][top_languages_gitub] |
 
-<details>
-  <summary>Recent Github Activity</summary>
 
-<!-- START_SECTION:activity -->
-
-</details>
-
----
-
-## `📺  Latest Youtube Videos`
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-## `📕 Latest Blog Posts`
-
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
 
 [simple_icons]: <img height="32px" width="32px" src="https://unpkg.com/simple-icons@v3/icons/[ICON_NAME].svg" />
 [mail_to_gmail]: mailto:mayinja6@gmail.com
