@@ -42,7 +42,7 @@
 
 
 
-<br />
+---
 
 ## &#x1f4c8; Quick stats about me
 
