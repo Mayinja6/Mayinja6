@@ -1,5 +1,5 @@
 # Hi there, I'm Douglas  <img src="./wave.gif" width="30px" height="30px" />
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2FPortifolio-Website)](https://Mayinja6.giyhub.io/Mayinja6)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2FPortifolio-Website)](https://mayinja6-portfolio.netlify.app)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mayinja6?color=1da1f2&label=%40Mayinja6&logo=Twitter&logoColor=1da1f2&style=for-the-badge)
 
 ## I'm a potential self driven Frontend Developer based in Uganda. :uganda:
